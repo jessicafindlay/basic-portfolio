@@ -1,1 +1,132 @@
+.layer1 {
+    width: 100vw;
+}
+
+.layer2 {
+    width: 63vw;
+}
+body {
+    background: transparent url(https://images.app.goo.gl/1ACAap4qLPFs6uNb8);
+}
+header {
+    border-color: #fff8dc;
+    background-color: #778899;
+    width: 100vw;
+}
+
+.name {
+    font-family: 'Oswald', 'Lucida Sans Unicode', 'Lucida Grande';
+    font-size: 200%;
+    color: #fff8dc;
+    background-color:#778899;
+    padding:2%;
+    width: 23%;
+    height: 5%;
+    text-align: left;
+    margin-left: 10%;
+}
+
+h1 {
+    margin-left: 5vh;
+}
+.nav {
+    color: #1C2833;
+    display: inline;
+    float: left;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 30vw;
+}
+.nav a {
+    font-family: 'Oswald', 'Lucida Sans Unicode', 'Lucida Grande';
+    color:  #1C2833;
+    text-decoration: none;
+}
+h2 {
+    color: black;
+    font-family: 'Oswald', 'Lucida Sans Unicode', 'Lucida Grande';
+    margin: 3%;
+    text-align: center;
+    margin-top: 10%;
+    margin-right: 10%;
+    float: left;
+}
+#footer {
+    margin-top: 400px;
+    background-color: #1C2833;
+    padding: 50px;
+    width: 100vw;
+    text-align: center;
+    font-size: 130%;
+    font-family: 'Oswald', 'Lucida Sans Unicode', 'Lucida Grande';
+    color: #fff8dc;
+    margin-right: 10vw;
+}
+
+#about {
+    display: flex;
+    flex-direction: column;
+}
+section {
+    background-color: #1C2833;
+    border-color: 3px solid #;
+    position: relative;
+    margin-top: 10px;
+    padding: 5px;
+  
+}
+#bio-image {
+    height: 400px;
+    width: 350px;
+    border: 3px solid #34495E;
+    padding: 5px;
+    border-radius: 250px;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.main-bio {
+  margin-right: 20vw;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+  width: 78vw;
+  height: 75vh;
+  margin-left: 16%;
+}
+.main-bio p {
+    width: 75%;
+    text-align: center;
+    display: inline;
+    float: right;
+    font-family: 'Oswald', 'Lucida Sans Unicode', 'Lucida Grande';
+    font-size: 120%;
+    left: -30%;
+    bottom: -10%;  
+    margin-left: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
